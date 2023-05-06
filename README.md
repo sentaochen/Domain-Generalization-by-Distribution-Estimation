@@ -11,10 +11,8 @@ For more details of this domain generalization work, please refer to the followi
   author={Sentao Chen and Zijie Hong},  
   journal={International Journal of Machine Learning and Cybernetics},   
   title={Domain Generalization by Distribution Estimation},   
-  year={2023},  
-  volumn={},  
-  pages={},   
-  issn = {},  
-  doi={}   
+  year={2023},   
+  pages={1-14},     
+  doi={https://doi.org/10.1007/s13042-023-01843-4}   
   }
  
