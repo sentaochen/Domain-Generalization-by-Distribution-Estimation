@@ -8,11 +8,13 @@ We briefly introduce the work from the following two perspectives. Technically, 
 For more details of this domain generalization work, please refer to the following JMLC paper: 
 
 @article{Chen2023Distribution,  
-  author={Sentao Chen and Zijie Hong},  
-  journal={International Journal of Machine Learning and Cybernetics},   
-  title={Domain Generalization by Distribution Estimation},   
-  year={2023},   
-  pages={1-14},     
-  doi={https://doi.org/10.1007/s13042-023-01843-4}   
-  }
+  title={Domain Generalization by Distribution Estimation},       
+  author={Chen, Sentao and Hong, Zijie},     
+  journal={International Journal of Machine Learning and Cybernetics},     
+  volume={14},    
+  number={10},    
+  pages={3457--3470},    
+  year={2023},    
+  publisher={Springer}   
+}
  
