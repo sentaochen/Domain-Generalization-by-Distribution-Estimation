@@ -1,6 +1,6 @@
 # Domain Generalization by Distribution Estimation
 
-This repository provides the Pytorch code for the work "Domain Generalization by Distribution Estimation" published in International Journal of Machine Learning and Cybernetics, 2023. 
+This repository provides the PyTorch code for the work "Domain Generalization by Distribution Estimation" published in International Journal of Machine Learning and Cybernetics, 2023. 
 
 We briefly introduce the work from the following two perspectives. Technically, we address Domain Generalization (DG) by minimizing the Kullback-Leibler (KL) divergence among multiple joint distributions, and show that such a KL divergence can be approximated by estimating a domain label posterior distribution. Ideologically, we express the opinion that for the DG problem where not much information is available from the distributionally different target domain, the solution to the problem should be explainable, and be kept as simple as possible. 
 
